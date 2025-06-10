@@ -2,6 +2,8 @@
  * RiseUp Social Media App - Main Entry Point
  * Luxury social media app with Instagram-like features
  * Built with React Native, Expo, and Firebase
+ * 
+ * Trigger build
  */
 
 import React, { useEffect, useState } from 'react';
